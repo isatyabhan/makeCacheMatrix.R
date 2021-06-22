@@ -1,2 +1,2 @@
 # makeCacheMatrix.R
- program to find inverse of a matrix
+ program to find inverse of mtrix.
